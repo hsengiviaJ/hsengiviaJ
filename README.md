@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsengiviaJ
-- 🔥 I'm a student aspiring to be a software developer
-- 👀 I’m interested in open source software, cloud computing and services, Quantum Computaion and Cybersecurity!
+- 🔥 I wanna be the very best, like no one ever was.
+- 👀 I’m interested in open source software, cloud computing and services, Quantum Computation, Computer Networking and Cybersecurity!
 - 💞️ I’m looking to collaborate on fun projects!
 
 <!---
